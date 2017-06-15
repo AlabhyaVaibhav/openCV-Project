@@ -1,2 +1,2 @@
 # openCV-Project
-Testing OpenCV
+learning OpenCV
